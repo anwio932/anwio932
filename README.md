@@ -19,7 +19,7 @@ PLEASE SEE MY CV BELOW:
 ANWI OJONG  
 Contact: (44)7935568736 / (44)2476520525 
 COVENTRY WEST MIDLAND. UK
-E-mail: anwio@yahoo.co.uk; www.linkedin.com/in/anwi-ojong: https://github.com/anwio932
+E-mail: anwio@yahoo.co.uk; : https://github.com/anwio932 : www.linkedin.com/in/anwi-ojong-55a05b58
 
 Profile
 

@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Java and JSON
 - 💬 Ask me about my Finance background being an asset to AWS Skills
-- 📫 How to reach me: E-mail: anwio@yahoo.co.uk; www.linkedin.com/in/anwi-ojong: https://github.com/anwio932
+- 📫 How to reach me: E-mail: anwio@yahoo.co.uk; www.linkedin.com/in/anwi-ojong-55a05b58: https://github.com/anwio932
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I have my degrees in the accounting and finance sector and I am excited to incorporate my knowledge in the tech industry.
 -->
@@ -31,9 +31,9 @@ Profile
 •	Knowledge of advanced excel working on pivot tables, v-lookup spreadsheets, and Power Bi. 
 •	Dependable and strong work ethics resulted in the winners of the Zonal Volunteer Award of the year 2020 in Loveworld Inc
 
-AWS re/Start:                                                                   Jan. 2021 till date  
-•	AWS Cloud Practitioner trainee in Cloud Computing. 
-•	Studied some basic concepts of cloud computing and its advantages; AWS simple storage services; Elastic Compute Cloud (EC2), S3; Visual Machines, Paas etc. 
+AWS re/Start Graduate:                                                                   Jan. 2021 - May 2021 
+•	AWS Certified Cloud Practitioner . 
+•	Studied some basic concepts of cloud computing and its advantages; Cloud Platform, Cloud Services; Visual Machines, Paas etc.
 •	Intermediary in Linux bash shell Scripts, python programming, html. 
 •	Networking as applied to AWS Cloud; Amazon VPC; AWS Security Compliance
 
@@ -65,11 +65,10 @@ Education and Trainings
 •	Financial statement Analysis, internal control & systems
 •	Advanced Management Accounting
 •	Corporate Finance
-•	BA (Hons) Professional Accounting (first class) From Coventry University
- (July 2018)
+•	BA (Hons) Professional Accounting (first class) From Coventry University (July 2018)
 •	Strategic Management and leadership (CMI Level 7 Certificate) Sept. 2019
 •	Post graduate Diploma in Accounting and Financial Management in merit From Coventry University (November 2019}
-•	AWS re/START: Cloud Foundation training		       Jan 2021   till date.
+•	AWS re/START: Cloud Foundation training		       Jan 2021 - April 2021.
 
 References: Available on request
 

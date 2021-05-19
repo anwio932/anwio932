@@ -68,7 +68,8 @@ Education and Trainings
 •	BA (Hons) Professional Accounting (first class) From Coventry University (July 2018)
 •	Strategic Management and leadership (CMI Level 7 Certificate) Sept. 2019
 •	Post graduate Diploma in Accounting and Financial Management in merit From Coventry University (November 2019}
-•	AWS re/START: Cloud Foundation training		       Jan 2021 - April 2021.
+•	AWS Certified Cloud Practitioner:						May 2021.
+
 
 References: Available on request
 

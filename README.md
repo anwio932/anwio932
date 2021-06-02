@@ -36,6 +36,7 @@ AWS re/Start Graduate:                                                          
 •	Studied some basic concepts of cloud computing and its advantages; Cloud Platform, Cloud Services; Visual Machines, Paas etc.
 •	Intermediary in Linux bash shell Scripts, python programming, html. 
 •	Networking as applied to AWS Cloud; Amazon VPC; AWS Security Compliance
+*	Completed some AWS Certification; - Introduction to serverless development; Compute and Job Roles in the Cloud. 
 
 Work Experience
 
@@ -45,7 +46,7 @@ Accounts Assistant Placement
 •	Entering financial information into appropriate software programs
 •	Diligently posting of entries, preparation of income statement, resulting to balance sheet reconciliation. Working on depreciation schedule and cash flow statement.	
 Loveworld Inc.						Sept 2014 to Nov 2019
-Head of Accounting and Finance Department 
+ Accounting and Finance Department 
 						 
 •	Provide support to Group Finance team and commercial business units to deliver accurate and timely financial information across all sector.
 •	Negotiates contracts with vendors and ensures timely payment.

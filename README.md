@@ -31,6 +31,26 @@ Profile
 •	Knowledge of advanced excel working on pivot tables, v-lookup spreadsheets, and Power Bi. 
 •	Dependable and strong work ethics resulted in the winners of the Zonal Volunteer Award of the year 2020 in Loveworld Inc
 
+Relevant Skills
+⦁ Proficiency in Kubernetes, GitHub, Git, Docker, Ansible, Terraform, Grafana, Prometheus, lens, CI/CD,
+Jenkins, Amazon Web Services (AWS), Linux, Linux administration, shell scripting and bash scripting.
+⦁ Leadership, Communication, Organisation, Collaboration and or Interpersonal skills
+⦁ Proficiency in Mathematics, Problem Solving/analytical skills
+⦁ Attention to details and with strong Excel skills
+
+Work History and Training:
+
+Data Service Group -Bear, Delaware: May 2021 to present 
+DevOps / Cloud Infrastructure Engineer 
+⦁ Created and maintained fully automated CI/CD pipeline for code deployment using GitHub, 
+Jenkins, Maven, Ansible, DevOps, Kubernetes and EKS
+⦁ Automated the migration of thousands of customers instances from the on-premises to AWS
+⦁ Create and modify Ansible Playbooks for deployment, and patching of Linux servers 
+⦁ Created, troubleshooting documentation to facilitate resolution of redundant issues
+⦁ AWS container services and messaging, AWS management and governance, AWS DevOps 
+services
+⦁ Work in a team of 5 DevOps engineer
+
 AWS re/Start Graduate:                                                                   Jan. 2021 - May 2021 
 •	AWS Certified Cloud Practitioner . 
 •	Studied some basic concepts of cloud computing and its advantages; Cloud Platform, Cloud Services; Visual Machines, Paas etc.

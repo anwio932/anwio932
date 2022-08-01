@@ -33,7 +33,7 @@ Profile
 
 Relevant Skills
 ⦁ Proficiency in Kubernetes, GitHub, Git, Docker, Ansible, Terraform, Grafana, Prometheus, lens, CI/CD,
-Jenkins, Amazon Web Services (AWS), Linux, Linux administration, shell scripting and bash scripting.
+Jenkins, Amazon Web Services (AWS), Linux, Linux administrator, shell scripting and bash scripting.
 ⦁ Leadership, Communication, Organisation, Collaboration and or Interpersonal skills
 ⦁ Proficiency in Mathematics, Problem Solving/analytical skills
 ⦁ Attention to details and with strong Excel skills
